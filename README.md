@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on high school<br>🌱 I’m currently learning Javacript<br>I'm 16 years old<br>Looking for a job
+🔭 I’m currently studying on high school<br>🌱 I’m currently learning Javacript<br>I'm 17 years old<br>Looking for a job
 
 
 ## 🌐 Socials:
